@@ -7,7 +7,7 @@ package findOutDuplicate;
  * where one of the number is repeated.
  * You need to write a program to find out the duplicate number.
  * 
- * GitHub 201707071850
+ * GitHub 201707071918
  * 
  */
 import java.util.HashSet;
